@@ -2,7 +2,7 @@
 
 flutter+h5混合开发的壳
 
-文档：
+文档：\n
 1、main.dart文件home: AppHome(url:'修改为服务器url');
 
 2、前端页面开放功能
